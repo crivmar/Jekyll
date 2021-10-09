@@ -1,18 +1,20 @@
 ---
-title: Colophon
+title: El Calvorota_ASIR
 permalink: /about/
 layout: page
-excerpt: Hello peeps, I'm student of computer science from Banyuwangi, living in Jogjakarta. This blog for documentation about my programming journey, running on jekyll, hosting on netlify and using my own simple theme.
-comments: false
 ---
 
-He's a student from Banyuwangi, living in Jogjakarta. the blog for documentation about his programming 🎒 journey, running on jekyll, hosting on [now.sh](http://now.sh) and using his own theme, he name it <a href="https://github.com/piharpi/jekyll-klise" target="_blank" rel="noopener">klisé</a>, he also loves to learning web technology; but he often forgot, that a reason why him doing the writing.
+# Todo cambia
 
-If you have a question about him or else, just send a letter to him.
+Vivía en un tranquilo barrio a las afueras de la prefectura de **Calvocity**, todo transcurría como debería en una vida anodina. Acababa de terminar mis estudios en _Diseño de Cosas Chorras_ y en _Inspección de Cacharros Cartonianos_, era mi _quincuagésima cuarta_ entrevista con robots sin alma de **RRHH**.
 
-You can [report](http://github.com/piharpi/jekyll-klise/issues/new) if there is an broken link(s) or somethings else.
+<img src="../assets/img/antes.png" />
 
-**may u needs ✨**
+Caminaba distraído y entonces un señor bajito con cara de duende lechugino me dijo:
+>Oye, chaval, ¿quiéres un poquito de ASIR?.
 
-- {{ site.author.email }}
-- github.com/{{ site.author.github }}
+No entendía muy bien qué clase de psicotrópico me ofrecía y él no paraba de reírse, me parecía algo sospechoso. Pero tenía un mal día así que acepté, extendí mi mano y el duende multicolor me dio un USB con la cara de Linus Torvalds.
+
+Todo en mí convulsionó, sentía que el mundo cambiaba o quizás era yo; no estaba seguro, pero sentí como perdía el pelo, las ganas de vivir, un odio creciente a Windows y un amor muy depravado por toda distro de Linux. En ese momento nació **_El calvorota de ASIR_**
+
+<img src="../assets/img/despues.png" />
