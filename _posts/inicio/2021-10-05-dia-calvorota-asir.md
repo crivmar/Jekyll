@@ -17,5 +17,6 @@ Pero lo perdí todo, ahora soy capaz de compilar lenguaje ensamblador con una ca
 
 <img src= "saita.png" />
 
-
+Esta página estaba muy bonita, pero he venido a alterar el orden de la naturaleza
+![](https://media.giphy.com/media/uISzZpAzbQ4nK/giphy.gif)
 
